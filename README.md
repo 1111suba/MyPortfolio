@@ -1,2 +1,2 @@
 # MyPortfolio
-My personal Portfolio website shoecasing about my skills,education and projects
+My personal Portfolio website showcasing about my skills,education and projects
